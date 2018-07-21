@@ -1,2 +1,2 @@
 # gof
-Original design com.publicclass.patterns from GoF
+Original design com.public_class.patterns from GoF

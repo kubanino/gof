@@ -1,4 +1,4 @@
-package com.public_class.patterns.factoryMethod;
+package com.public_class.patterns.factory_method;
 
 public class ExampleUsage
 {

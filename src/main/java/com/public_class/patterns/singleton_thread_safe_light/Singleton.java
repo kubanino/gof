@@ -1,4 +1,4 @@
-package com.public_class.patterns.singletonThreadSafeLight;
+package com.public_class.patterns.singleton_thread_safe_light;
 
 public class Singleton
 {

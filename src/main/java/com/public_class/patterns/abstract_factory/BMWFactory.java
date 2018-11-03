@@ -1,4 +1,4 @@
-package com.public_class.patterns.abstractFactory;
+package com.public_class.patterns.abstract_factory;
 
 public class BMWFactory implements CarPartsFactory
 {

@@ -1,8 +1,8 @@
-package com.public_class.patterns.factoryMethod;
+package com.public_class.patterns.factory_method;
 
-import static com.public_class.patterns.factoryMethod.Item.Pen;
+import static com.public_class.patterns.factory_method.Item.*;
 
-public class ExpensiveFactory extends Factory
+public class CheapFactory extends Factory
 {
     @Override
     protected Item produceItem(String whatToProduce)
